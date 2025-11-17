@@ -32,12 +32,6 @@ A computer vision system that classifies 75,000+ food images across 101 categori
 - **15% improvement** over baseline CNN
 - Per-class precision/recall analysis with confusion matrix
 
-## 🚀 Quick Start
-[Add installation and usage instructions]
-
-## 📈 Model Architecture
-[Add diagram or description of EfficientNetB0 + your modifications]
-
 ## 🔍 Challenges & Solutions
 - **Challenge:** High visual diversity across categories
 - **Solution:** Systematic augmentation + transfer learning
